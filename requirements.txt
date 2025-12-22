@@ -1,0 +1,10 @@
+pyautogui
+speech_recognition
+pyaudio
+vosk
+noisereduce
+fuzzywuzzy
+jellyfish
+customtkinter
+pywin32
+googletrans==4.0.0rc1
